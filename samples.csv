@@ -1,0 +1,6 @@
+,"Alive/Dead","Age (days)","Tumor location","Gene fusion status"
+"Sample 1","Alive",100,"Pelvis","Pos"
+"Sample 2","Alive",150,"Extremity","Pos"
+"Sample 3","Alive",50,"Extremity","Unk"
+"Sample 4","Dead",300,"Pelvis","Neg"
+"Sample 5","Dead",250,"Pelvis","Neg"
